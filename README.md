@@ -1,8 +1,7 @@
 # SubhaPrasanaParida
 <!-- 👋 Profile README for Subha Prasana Parida -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=root@subha-parida:~%24+whoami;Subha+Prasana+Parida+|+CSE+Undergrad;AI+Engineer+•+Data+Architect+•+DevOps;Deploying+Intelligence+at+Scale+🚀;System.optimize()+in+progress...;Stay+Hungry.+Stay+Foolish.)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F700&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Subha+Prasana+Parida+👋;Computer+Science+and+Engineering+Student+|+AI+%26+Data+Science+Enthusiast+|+DevOps+Explorer;Building+Intelligent+Systems+with+AI+%26+Cloud+☁️;Always+Curious+Always+Learning+🚀)](https://git.io/typing-svg)   
 ---
 
 ### 🧠 About Me  
