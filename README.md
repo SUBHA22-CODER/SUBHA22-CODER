@@ -27,7 +27,7 @@
 ---
 
 ### 📊 GitHub Analytics  
-![Subha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUBHA22-CODER&show_icons=true&theme=radical)  
+![Subha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUBHA22-CODER&show_icons=true&theme=radical&cache_seconds=60) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SUBHA22-CODER&layout=compact&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=SUBHA22-CODER&theme=radical)
 
