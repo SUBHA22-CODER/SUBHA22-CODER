@@ -42,6 +42,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/subha-prasana-parida-0b59b3332?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SUBHA22-CODER&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
 
 ### 👀 Visitor Count  
 ![Visitor Count](https://komarev.com/ghpvc/?username=SUBHA22-CODER&style=flat-square&color=blue)
