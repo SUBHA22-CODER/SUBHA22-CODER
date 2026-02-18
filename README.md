@@ -1,5 +1,4 @@
 # SubhaPrasanaParida
-https://github.com/user-attachments/assets/8f622def-fc2c-405c-823b-b57ba670b208
 <!-- 👋 Profile README for Subha Prasana Parida -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F700&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Subha+Prasana+Parida+👋;Computer+Science+and+Engineering+Student+|+AI+%26+Data+Science+Enthusiast+|+DevOps+Explorer;Building+Intelligent+Systems+with+AI+%26+Cloud+☁️;Always+Curious+Always+Learning+🚀)](https://git.io/typing-svg)   
