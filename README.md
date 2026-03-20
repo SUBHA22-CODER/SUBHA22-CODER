@@ -45,6 +45,7 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=SUBHA22-CODER&style=flat-square&color=blue)
 
 ---
+![Snake animation](https://raw.githubusercontent.com/SUBHA22-CODER/SUBHA22-CODER/output/github-snake.svg)
 
 ⭐ *"Don’t chase perfection — chase progress. The masterpiece forms while you’re still learning."*
 
