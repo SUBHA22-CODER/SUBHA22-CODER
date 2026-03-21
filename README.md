@@ -3,7 +3,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F700&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Subha+Prasana+Parida+👋;Computer+Science+and+Engineering+Student+|+AI+%26+Data+Science+Enthusiast+|+DevOps+Explorer;Building+Intelligent+Systems+with+AI+%26+Cloud+☁️;Always+Curious+Always+Learning+🚀)](https://git.io/typing-svg)   
 ---
-
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyZ3llaGcwbnlidndodWw1anlsbWk5dTB0cnlpZmJxNHlia2Z5dGIyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="500">
+</p>
 ### 🧠 About Me  
 🌱 Deepening my knowledge in **Cloud Architecture**, while exploring **DevOps, Data Science, and AI/ML** to build intelligent, scalable solutions.  
 🎯 Passionate about creating impactful, real-world tech innovations.  
