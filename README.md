@@ -6,6 +6,7 @@
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyZ3llaGcwbnlidndodWw1anlsbWk5dTB0cnlpZmJxNHlia2Z5dGIyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="500">
 </p>
+
 ### 🧠 About Me  
 🌱 Deepening my knowledge in **Cloud Architecture**, while exploring **DevOps, Data Science, and AI/ML** to build intelligent, scalable solutions.  
 🎯 Passionate about creating impactful, real-world tech innovations.  
