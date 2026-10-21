@@ -42,8 +42,11 @@
 ![](https://github-profile-trophy.vercel.app/?username=SUBHA22-CODER&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+## Badges
+### Open Source Contributions
+[![Contributor](https://img.shields.io/badge/1st%20PR%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://kestra.io/community?from=github-badge)
 
-
+---
 ### 👀 Visitor Count  
 ![Visitor Count](https://komarev.com/ghpvc/?username=SUBHA22-CODER&style=flat-square&color=blue)
 
